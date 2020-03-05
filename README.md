@@ -1,2 +1,2 @@
 # DeepLearningProject
-Deep Learning Assignment with capestone Project
+Deep Learning Assignment and capestone Project
